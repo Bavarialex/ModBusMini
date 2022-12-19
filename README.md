@@ -8,6 +8,7 @@ This is for displaying PV inverter Data on a M5stack core2.
 You need:
 - M5Stack core2
 - SD card, formatted with FAT32
+  Already containing the font (VLW)-files
 - ESPHomeFlasher tool <https://github.com/esphome/esphome-flasher/releases>
 - Config file for your PV inverter
 
