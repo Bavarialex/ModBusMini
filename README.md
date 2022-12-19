@@ -14,6 +14,9 @@ You need:
 
 For unsupported inverters use Simple modbus tool <https://www.simplymodbus.ca/SMT812.zip> to transfer registers to needed codes for config-file.
 
+Config - files already available for:
+- EPEver with Wifi01
+
 HOW TO:
 - Format SD card in fat32 format.
 - Copy 2 font-files (.vfw) to SD-card.
