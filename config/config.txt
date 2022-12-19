@@ -1,0 +1,14 @@
+// dies ein Config File für EPEver
+
+SSID|YourSSID
+PW|YourPassword
+Host|10.11.13.8
+Port|502
+
+IDX|Power|V|01|04|31|00|00|01|3F|36
+ID1|PV Spannung|Volt|1|4|49|0|0|1|63|54
+ID2|Temp|°C|01|04|49|16|00|01|62|243
+ID3|Bat SOC|%|01|04|49|26|00|01|30|241
+
+// Ende
+
