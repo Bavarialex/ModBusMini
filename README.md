@@ -3,7 +3,7 @@
 
 This is for displaying PV inverter Data on a M5stack core2.
 
-![image](https://github.com/Bavarialex/PVmini/blob/main/pics/image.png)
+![image](https://github.com/Bavarialex/ModBusMini/blob/main/pics/m501.jpg)
 
 You need:
 - M5Stack core2
