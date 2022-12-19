@@ -16,7 +16,7 @@ For unsupported inverters use Simple modbus tool <https://www.simplymodbus.ca/SM
 
 HOW TO:
 - Format SD card in fat32 format.
-- Copy 2 font-files (.vfw) on SD-card.
+- Copy 2 font-files (.vfw) to SD-card.
 - Open config.txt in any text-editor.
 - Insert you WiFi-Data (SSID an password - without "!).
 - Overwrite Host-ip with ip of your Modbus-client/server.
