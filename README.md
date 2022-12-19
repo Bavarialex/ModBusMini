@@ -1,4 +1,4 @@
-# PVmini
+# ModBusMini
 
 
 This is for displaying PV inverter Data on a M5stack core2.
