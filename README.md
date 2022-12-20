@@ -34,3 +34,6 @@ HOW TO:
 - Insert SD-card in M5stack.
 - Press reboot.
 - Enjoy!
+
+Hint:
+- Left button switches to second bank for displaying parameters ID12, ID22 and ID32
