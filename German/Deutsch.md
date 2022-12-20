@@ -1,4 +1,4 @@
-# ModBusMini
+# ModB mini
 
 
 Nettes Tool, um Modbus Daten (z.B. von einem PV-Wechselrichter) anzuzeigen.
