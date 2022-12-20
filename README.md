@@ -2,6 +2,7 @@
 
 
 This is for displaying PV inverter Data on a M5stack core2.
+Deutscher Text: <https://github.com/Bavarialex/ModBusMini/blob/main/German/Deutsch.md>
 
 ![image](https://github.com/Bavarialex/ModBusMini/blob/main/pics/m502.jpg)
 
