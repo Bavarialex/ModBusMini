@@ -5,12 +5,12 @@ Nettes Tool, um Modbus Daten (z.B. von einem PV-Wechselrichter) anzuzeigen.
 
 ![image](https://github.com/Bavarialex/ModBusMini/blob/main/pics/m502.jpg)
 
-You need:
+Was braucht's:
 - M5Stack core2
-- SD card, formatted with FAT32, 
-  already containing the font (VLW)-files
+- SD Karte, formatiert mit FAT32, 
+  darauf die font (VLW)-Dateien
 - ESPHomeFlasher tool <https://github.com/esphome/esphome-flasher/releases>
-- Config file for your PV inverter
+- Das Config file (config.txt) für das Modbus-Gerät
 
 For unsupported inverters use Simple modbus tool <https://www.simplymodbus.ca/SMT812.zip> to transfer registers to needed codes for config-file.
 
