@@ -30,6 +30,7 @@ HOW TO:
 
 - Download firmware.bin
 - Download ESPHomeFlasher tool. Check for right com-port and open firmware.bin.
+- Connect M5stack to pc.
 - Flash firmware.
 - Insert SD-card in M5stack.
 - Press reboot.
