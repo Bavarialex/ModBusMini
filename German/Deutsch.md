@@ -1,7 +1,7 @@
 # ModBusMini
 
 
-This is for displaying PV inverter Data on a M5stack core2.
+Nettes Tool, um Modbus Daten (z.B. von einem PV-Wechselrichter) anzuzeigen.
 
 ![image](https://github.com/Bavarialex/ModBusMini/blob/main/pics/m502.jpg)
 
