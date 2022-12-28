@@ -38,3 +38,4 @@ HOW TO:
 
 Hint:
 - Left button switches to second bank for displaying parameters ID12, ID22 and ID32
+- Once flashed with cable, next time use browser: IPofModBmini/update and upload and update from there!
