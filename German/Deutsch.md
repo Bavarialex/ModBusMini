@@ -36,3 +36,4 @@ Wie's geht::
 
 Tipp:
 - Der linke Button schaltet auf die zweite Bank, nun können auch die Werte ID12, ID22 und ID32 angezeigt werden...
+- Einmal per Kabel geflasht, das nächste Mal über den Browser: IPdesModBmini/update und hier das firmware-file angeben und updaten!
