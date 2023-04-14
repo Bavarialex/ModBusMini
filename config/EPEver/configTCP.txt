@@ -1,0 +1,19 @@
+// dies ein Config File für EPEver Modbus TCP - remove TCP from name!
+
+SSID|SSID
+PW|WifiPasswd
+Host|10.11.13.8
+Port|502
+Modus|TCP
+
+ID11|PV Leistung|Watt|00|2|00|00|00|6|1|4|49|6|0|1
+ID21|PV Spannung|Volt|00|2|00|00|00|6|1|4|49|0|0|1
+ID31|Bat SOC|%|00|2|00|00|00|6|1|4|49|26|0|1
+
+ID12|PV Strom|Amp|00|6|00|00|00|6|1|4|49|1|0|1
+ID22|Bat Spannung|V|00|5|00|00|00|6|1|4|51|26|0|1
+ID32|Bat SOC|%|00|2|00|00|00|6|1|4|49|26|0|1
+
+//IDX|Temp|°C|00|2|00|00|00|6|1|4|49|16|0|1
+
+// Ende
