@@ -18,6 +18,7 @@ For unsupported inverters use Simple modbus tool <https://www.simplymodbus.ca/SM
 
 Config - files already available for:
 - EPEver with Wifi01
+- EPEver with ModbusRTU to TCP converter
 
 HOW TO:
 - Format SD card in fat32 format.
