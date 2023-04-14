@@ -1,4 +1,4 @@
-// dies ein Config File für EPEver
+// dies ein Config File für EPEver ModbusRTU
 
 SSID|YourSSID
 PW|YourWifiPassword
