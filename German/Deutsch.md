@@ -15,7 +15,8 @@ Was braucht's:
 Um selbst ein config.txt für das eigene Gerät zu bauen, nimmt man das Simple modbus tool <https://www.simplymodbus.ca/SMT812.zip>. Hiermit kann getestet werden, über welches Protokoll (modbusRTUoverTCP oder modbusTCP) sich das Gerät ansprechen lässt und bei welchen Registern plausible Werte übertragen werden.
 
 Config - files gibt's schon für:
-- EPEver with Wifi01
+- EPEver mit Wifi01
+- EPEVer mit ModbusRTU auf TCP Konverter HS2211S
 
 Wie's geht::
 - SD Karte in fat32 formatieren.
