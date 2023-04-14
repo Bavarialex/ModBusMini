@@ -1,7 +1,7 @@
 # ModB mini
 
 
-This is for displaying PV inverter Data on a M5stack core2.
+This is for displaying ModbusRTU or ModbusTCP- (PV inverter) Data on a M5stack core2.
 
 Deutscher Text: <https://github.com/Bavarialex/ModBusMini/blob/main/German/Deutsch.md>
 
