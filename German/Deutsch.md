@@ -21,7 +21,7 @@ Config - files gibt's schon für:
 Wie's geht::
 - SD Karte in fat32 formatieren.
 - 2 font-files (.vfw) auf die Karte kopieren.
-- Config.txt in einem Textdeitor öffnen.
+- Config.txt in einem Textdeditor öffnen.
 - WLAN-Daten eintragen (SSID und password - ohne Anführungszeichen!).
 - Host-ip mit der IP vom Modbus-client/server (je nach Betriebsart) überschreiben.
 - Port mit dem Port des Modbus-client/server überschreiben.
